@@ -8,7 +8,7 @@
   display: -ms-flexbox;
   display: flex;
   height: 100%;
-  margin: 0 !important;
+  margin-top: 50px;
   padding: 0 !important;
   transform-style: preserve-3d;
 }
